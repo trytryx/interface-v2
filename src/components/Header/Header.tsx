@@ -266,21 +266,6 @@ const Header: React.FC = () => {
       text: 'Liquidity',
       id: 'pools-page-link',
     },
-    {
-      link: 'https://polyowl-frontend-main.vercel.app/farms',
-      text: 'Farm',
-      id: 'farm-page-link',
-    },
-    {
-      link: 'https://polyowl-frontend-main.vercel.app/pools',
-      text: 'pools',
-      id: 'dragons-page-link',
-    },
-    {
-      link: '/analytics',
-      text: 'Analytics',
-      id: 'analytics-page-link',
-    },
   ];
 
   const outLinks: any[] = [
