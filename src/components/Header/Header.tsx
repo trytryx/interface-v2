@@ -263,17 +263,17 @@ const Header: React.FC = () => {
     },
     {
       link: '/pools',
-      text: 'Pool',
+      text: 'Liquidity',
       id: 'pools-page-link',
     },
     {
-      link: '/farm',
+      link: 'https://polyowl-frontend-main.vercel.app/farms',
       text: 'Farm',
       id: 'farm-page-link',
     },
     {
-      link: '/dragons',
-      text: 'Dragon’s Lair',
+      link: 'https://polyowl-frontend-main.vercel.app/pools',
+      text: 'pools',
       id: 'dragons-page-link',
     },
     {
