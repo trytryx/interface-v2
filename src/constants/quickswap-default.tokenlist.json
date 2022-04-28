@@ -22,12 +22,12 @@
       "logoURI": "https://polygonscan.com/token/images/forintfinance_32.png"
     },
     {
-      "name": "Aave",
-      "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
-      "symbol": "AAVE",
-      "decimals": 18,
+      "name": "Hyper Finance",
+      "address": "0xd19A6Fe48395a7BE37dDC16508dD180D59867012",
+      "symbol": "HYPER",
+      "decimals": 9,
       "chainId": 137,
-      "logoURI": "https://etherscan.io/token/images/aave_32.png"
+      "logoURI": "https://raw.githubusercontent.com/trytryx/interface-v2/master/src/assets/tokenLogo/0xd19A6Fe48395a7BE37dDC16508dD180D59867012.png"
     },
     {
       "name": "Adamant",
