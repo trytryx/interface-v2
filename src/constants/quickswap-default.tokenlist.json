@@ -22,6 +22,14 @@
       "logoURI": "https://raw.githubusercontent.com/trytryx/interface-v2/master/src/assets/tokenLogo/0xd19A6Fe48395a7BE37dDC16508dD180D59867012.png"
     },
     {
+      "name": "HyperSwap",
+      "address": "0xc82DC76966d59D112bA56Cb81799151CEFA0eDb2",
+      "symbol": "HYPER",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/trytryx/interface-v2/master/src/assets/tokenLogo/0xc82DC76966d59D112bA56Cb81799151CEFA0eDb2.png"
+    },
+    {
       "name": "Wrapped Matic",
       "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
       "symbol": "WMATIC",
