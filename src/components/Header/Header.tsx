@@ -302,7 +302,7 @@ const Header: React.FC = () => {
         pendingTransactions={pending}
         confirmedTransactions={confirmed}
       />
-      <Link to='/'>
+      <Link to='/swap'>
         <img
           src={mobileWindowSize ? QuickIcon : QuickLogo}
           alt='QuickLogo'
