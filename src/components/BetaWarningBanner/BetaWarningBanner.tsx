@@ -40,7 +40,7 @@ const BetaWarningBanner: React.FC = () => {
           <AlertTriangle size={20} />
           <Typography variant='caption'>
             This site is in alpha. By using this software, you understand,
-            acknowledge and accept that HyperSwapp and/or the underlying software
+            acknowledge and accept that HyperSwap and/or the underlying software
             are provided “as is” and “as available” basis and without warranties
             or representations of any kind either expressed or implied
           </Typography>
