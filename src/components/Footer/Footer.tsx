@@ -23,7 +23,7 @@ const Footer: React.FC = () => {
   return (
     <Box className={classes.footer}>
       <QuickIcon />
-      <Typography>© {copyrightYear} HyperSwapp.</Typography>
+      <Typography>© {copyrightYear} PhnxSwap.</Typography>
     </Box>
   );
 };
